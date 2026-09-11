@@ -1,0 +1,5 @@
+{"item_id":"item_001","model_a":"model_alpha","model_b":"model_beta","preference":"A"}
+{"item_id":"item_002","model_a":"model_beta","model_b":"model_alpha","preference":"TIE"}
+{"item_id":"item_003","model_a":"model_alpha","model_b":"model_gamma","preference":"B"}
+{"item_id":"item_004","model_a":"model_gamma","model_b":"model_beta","preference":"A"}
+{"item_id":"item_005","model_a":"model_beta","model_b":"model_gamma","preference":"B"}

@@ -1,0 +1,8 @@
+{"item_id":"item_001","model_id":"model_alpha","annotator_id":"annotator_01","dimensions":{"quality_1":4.6,"quality_2":4.2,"quality_3":4.4,"quality_4":4.0,"quality_5":4.3}}
+{"item_id":"item_001","model_id":"model_beta","annotator_id":"annotator_02","dimensions":{"quality_1":3.4,"quality_2":3.7,"quality_3":3.5,"quality_4":3.8,"quality_5":3.6}}
+{"item_id":"item_002","model_id":"model_alpha","annotator_id":"annotator_01","dimensions":{"quality_1":4.0,"quality_2":3.9,"quality_3":4.1,"quality_4":4.0,"quality_5":4.0}}
+{"item_id":"item_002","model_id":"model_beta","annotator_id":"annotator_02","dimensions":{"quality_1":4.1,"quality_2":4.0,"quality_3":4.0,"quality_4":3.9,"quality_5":4.0}}
+{"item_id":"item_003","model_id":"model_alpha","annotator_id":"annotator_01","dimensions":{"quality_1":3.2,"quality_2":3.5,"quality_3":3.3,"quality_4":3.4,"quality_5":3.1}}
+{"item_id":"item_003","model_id":"model_gamma","annotator_id":"annotator_02","dimensions":{"quality_1":4.4,"quality_2":4.2,"quality_3":4.5,"quality_4":4.1,"quality_5":4.3}}
+{"item_id":"item_004","model_id":"model_gamma","annotator_id":"annotator_01","dimensions":{"quality_1":4.3,"quality_2":4.1,"quality_3":4.2,"quality_4":4.4,"quality_5":4.0}}
+{"item_id":"item_004","model_id":"model_beta","annotator_id":"annotator_02","dimensions":{"quality_1":3.7,"quality_2":3.8,"quality_3":3.6,"quality_4":3.9,"quality_5":3.5}}
